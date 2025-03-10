@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @heerayr
-- 👀 I’m passionate on artificial intelligence, neural networking and Data science
-- 🌱 I’m currently pursuing Bachelors of Technology on AI and data science
-- I am especially interested in the field of AI in healthcare
+- 👀 I’m passionate about artificial intelligence and Data science
+- 🌱 I’m currently pursuing Bachelors of Technology on AI and data science (2022 - 2026)
+- I am especially interested in the field of AI in healthcare and Generative AI
 - 💞️ I’m looking to collaborate on the related fields
 - 📫 How to reach me heerayr@gmail.com
