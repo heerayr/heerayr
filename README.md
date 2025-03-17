@@ -67,6 +67,8 @@ I'm looking for opportunities to collaborate on:
 
 - **B.Tech in Artificial Intelligence & Data Science** (2022-2026)
   - Coursework: Data Structures, Algorithms, Machine Learning, Database Systems, Web Development
+  Grade 10: 92%
+  Grade 12: 90%
 
 ## 📫 Connect With Me
 
