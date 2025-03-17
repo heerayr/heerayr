@@ -35,11 +35,11 @@ Currently pursuing a B.Tech in AI & Data Science (2022-2026), I'm building a str
 
 ### Development Methodologies
 ![Agile](https://img.shields.io/badge/Agile-0175C2?style=flat&logo=scrumalliance&logoColor=white)
-
+<!--
 ## 📊 GitHub Stats
 
 [![Heeray's GitHub stats](https://github-readme-stats.vercel.app/api?username=heerayr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&hide=issues,contribs)](https://github.com/heerayr)
-<!--
+
 ## 🔍 Technical Focus Areas
 
 - **AI-Enhanced Applications**: Building intelligent systems by integrating traditional tech stacks with modern AI capabilities
