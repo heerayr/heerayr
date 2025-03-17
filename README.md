@@ -8,7 +8,7 @@
 AI & Data Science undergraduate with a passion for emerging technologies that can transform healthcare and creative industries.
 Currently pursuing a B.Tech in AI & Data Science (2022-2026), I'm building a strong foundation in machine learning, deep learning, and data analysis techniques while exploring real-world applications of these technologies.
 
-> "The best way to predict the future is to invent it." - Alan Kay
+> "I learned to always take on things I’d never done before. Growth and comfort do not coexist." -Ginni Rometty (Former CEO of IBM)
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
