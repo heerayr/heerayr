@@ -1,6 +1,6 @@
 # Heera Y R | AI & Data Science Explorer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/heerayr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/heera-yr)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:heerayr@gmail.com)
 
 ## 👨‍💻 About Me
