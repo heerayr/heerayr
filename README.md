@@ -5,8 +5,7 @@
 
 ## 👨‍💻 About Me
 
-AI & Data Science undergraduate with a passion for emerging technologies.
-Currently pursuing a B.Tech in AI & Data Science (2022-2026), I'm building a strong foundation in machine learning, deep learning, and data analysis techniques while exploring real-world applications of these technologies.
+Associate Data Scientist  with B.Tech in AI & Data Science (2022-2026), I have a strong foundation in generative AI, Cloud like Azure and AWS,  while exploring real-world applications of these technologies.
 
 > "I learned to always take on things I’d never done before. Growth and comfort do not coexist." -Ginni Rometty (Former CEO of IBM)
 
